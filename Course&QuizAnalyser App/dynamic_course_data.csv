@@ -1,0 +1,11 @@
+StudentID,StudentName,Course,EnrollmentDate,CompletionStatus
+1,Dharani,Python Programming,2024-11-01,Completed
+2,Swetha,Data Science,2024-12-10,In Progress
+3,Sathya Priya,Machine Learning,2024-12-01,Not Started
+4,Kanniga,Web Development,2024-10-02,Completed
+5,Arjun,Cloud Computing,2024-09-15,Completed
+6,Meera,Artificial Intelligence,2024-11-20,In Progress
+7,Rajesh,Big Data,2024-10-05,Not Started
+8,Anita,DevOps,2024-12-25,Completed
+9,Vikram,Blockchain,2024-11-30,In Progress
+10,Divya,Cyber Security,2024-10-10,Not Started
